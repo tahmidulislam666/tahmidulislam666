@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tahmidul Islam
-- 👀 I’m interested in SQA, Networking, Cybersecurity
-- 🌱 I’m currently learning SQA, Python, Dart, Flutter
+- 👀 I’m interested in Machine Learning, SQA, Networking, Cybersecurity, Android App Development
+- 🌱 I’m currently learning SQA, Python, Machine Learning, AI
 - 📫 How to reach me: tahmidulislam666@gmail.com
 
 <!---
